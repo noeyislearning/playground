@@ -1,3 +1,9 @@
+/**
+ * 2704. To Be or Not to Be (Answer v1)
+ * Problem Link: https://leetcode.com/problems/to-be-or-not-to-be/
+ * Solution Link (Personal): 
+ */
+
 type ToBeOrNotToBe = {
   toBe: (val: any) => boolean;
   notToBe: (val: any) => boolean;
