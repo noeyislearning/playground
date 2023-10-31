@@ -1,7 +1,7 @@
 """
 0176. Second Highest Salary (Ansnwer: v1)
 Problem Link: https://leetcode.com/problems/second-highest-salary/
-Solution Link + Explanation: https://leetcode.com/problems/second-highest-salary/solutions/4230149/finding-the-second-highest-salary/
+Solution Link (Personal): https://leetcode.com/problems/second-highest-salary/solutions/4230149/finding-the-second-highest-salary/
 """
 import pandas as pd
 
