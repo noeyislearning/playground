@@ -1,3 +1,7 @@
+-- 607. Sales Person
+-- Problem Link: https://leetcode.com/problems/sales-person/
+-- Solution Link (Personal):
+
 SELECT s.name
 FROM SalesPerson s
 WHERE s.sales_id NOT IN (
