@@ -1,5 +1,5 @@
 /**
- * 2723. Add Two Promises
+ * 2723. Add Two Promises (Answer v1)
  * Problem Link: https://leetcode.com/problems/add-two-promises/
  * Solution Link (Personal):
  */
