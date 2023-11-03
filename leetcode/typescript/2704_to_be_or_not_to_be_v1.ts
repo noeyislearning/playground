@@ -1,7 +1,7 @@
 /**
  * 2704. To Be or Not to Be (Answer v1)
  * Problem Link: https://leetcode.com/problems/to-be-or-not-to-be/
- * Solution Link (Personal): 
+ * Solution Link (Personal):
  */
 
 type ToBeOrNotToBe = {
@@ -11,19 +11,19 @@ type ToBeOrNotToBe = {
 
 function expect(val: any): ToBeOrNotToBe {
   return {
-      toBe: function(compareVal: any): boolean {
-          if (val === compareVal) {
-              return true;
-          } else {
-              throw new Error("Not Equal");
-          }
-      },
-      notToBe: function(compareVal: any): boolean {
-          if (val !== compareVal) {
-              return true;
-          } else {
-              throw new Error("Equal");
-          }
+    toBe: function (compareVal: any): boolean {
+      if (val === compareVal) {
+        return true;
+      } else {
+        throw new Error("Not Equal");
       }
+    },
+    notToBe: function (compareVal: any): boolean {
+      if (val !== compareVal) {
+        return true;
+      } else {
+        throw new Error("Equal");
+      }
+    },
   };
-};
+}
