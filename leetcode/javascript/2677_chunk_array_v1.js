@@ -4,15 +4,14 @@
  * Solution Link (Personal):
  */
 
-
 const chunk = (arr, size) => {
   const chunks = [];
   let i = 0;
 
   while (i < arr.length) {
     chunks.push(arr.slice(i, i + size));
-    i += size; 
+    i += size;
   }
 
   return chunks;
-}
+};

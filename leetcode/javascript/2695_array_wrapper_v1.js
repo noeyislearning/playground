@@ -14,6 +14,6 @@ class ArrayWrapper {
   }
 
   toString() {
-    return `[${this.nums.join(',')}]`; 
+    return `[${this.nums.join(",")}]`;
   }
 }

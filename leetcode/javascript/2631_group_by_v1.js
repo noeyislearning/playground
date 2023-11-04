@@ -4,17 +4,17 @@
  * Solution Link (Personal):
  */
 
-Array.prototype.groupBy = function(fn) {
+Array.prototype.groupBy = function (fn) {
   const groups = {};
 
-  this.forEach(item => {
+  this.forEach((item) => {
     const key = fn(item);
     if (groups[key]) {
-      groups[key].push(item); 
+      groups[key].push(item);
     } else {
       groups[key] = [item];
     }
   });
 
   return groups;
-}
+};
