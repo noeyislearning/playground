@@ -12,7 +12,7 @@ class TimeLimitedCache {
   set(key, value, duration) {
     const currentTime = Date.now();
     const expirationTime = currentTime + duration;
-    
+
     if (this.cache.has(key)) {
       // If the key exists, check if it's still valid
       if (this.cache.get(key).expirationTime > currentTime) {
@@ -21,35 +21,35 @@ class TimeLimitedCache {
         return true;
       }
     }
-    
+
     this.cache.set(key, { value, expirationTime });
     return false;
   }
 
   get(key) {
     const currentTime = Date.now();
-    
+
     if (this.cache.has(key)) {
       const { value, expirationTime } = this.cache.get(key);
-      
+
       if (expirationTime > currentTime) {
         return value;
       }
     }
-    
+
     return -1;
   }
 
   count() {
     const currentTime = Date.now();
-    
+
     // Clean up expired entries
     for (const [key, { expirationTime }] of this.cache) {
       if (expirationTime <= currentTime) {
         this.cache.delete(key);
       }
     }
-    
+
     return this.cache.size;
   }
 }
