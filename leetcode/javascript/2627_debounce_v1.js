@@ -4,16 +4,16 @@
  * Solution Link (Personal):
  */
 
-var debounce = function(fn, t) {
+var debounce = function (fn, t) {
   let timeoutId;
 
   return function (...args) {
-      if (timeoutId) {
-          clearTimeout(timeoutId);
-      }
+    if (timeoutId) {
+      clearTimeout(timeoutId);
+    }
 
-      timeoutId = setTimeout(() => {
-          fn.apply(this, args);
-      }, t);
+    timeoutId = setTimeout(() => {
+      fn.apply(this, args);
+    }, t);
   };
 };

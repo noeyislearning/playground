@@ -4,7 +4,7 @@
  * Solution Link (Personal):
  */
 
-var cancellable = function(fn, args, t) {
+var cancellable = function (fn, args, t) {
   let cancelled = false;
 
   const delayCallback = () => {
