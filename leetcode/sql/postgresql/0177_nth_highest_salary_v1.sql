@@ -1,4 +1,4 @@
--- 177. Nth Highest Salary
+-- 177. Nth Highest Salary (Answer v1)
 -- Problem Link: https://leetcode.com/problems/nth-highest-salary/
 -- Solution Link (Personal):
 
