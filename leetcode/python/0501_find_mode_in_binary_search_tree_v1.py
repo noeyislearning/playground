@@ -1,5 +1,5 @@
 """
-501. Find Mode in Binary Search Tree
+501. Find Mode in Binary Search Tree (Answer v1)
 Problem Link: https://leetcode.com/problems/find-mode-in-binary-search-tree/
 Solution Link (Personal):
 """

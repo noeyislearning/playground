@@ -1,4 +1,4 @@
--- 619. Biggest Single Number
+-- 619. Biggest Single Number (Answer v1)
 -- Problem Link: https://leetcode.com/problems/biggest-single-number/
 -- Solution Link (Personal):
 
