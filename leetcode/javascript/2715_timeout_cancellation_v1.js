@@ -3,9 +3,8 @@
  * Problem Link: https://leetcode.com/problems/timeout-cancellation/
  * Solution Link (Personal):
  */
-<<<<<<< HEAD
 
-var cancellable = function(fn, args, t) {
+var cancellable = function (fn, args, t) {
   let cancelled = false;
 
   const delayCallback = () => {
@@ -22,5 +21,4 @@ var cancellable = function(fn, args, t) {
 
   return cancelFn;
 };
-=======
->>>>>>> deepsource-transform-cbc8ec17
+
