@@ -1,4 +1,4 @@
--- 620. Not Boring Movies
+-- 620. Not Boring Movies (Answer v1)
 -- Problem Link: https://leetcode.com/problems/not-boring-movies/
 -- Solution Link (Personal):
 

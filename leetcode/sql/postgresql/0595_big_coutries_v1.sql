@@ -1,4 +1,4 @@
--- 595. Big Countries (Answer v1)
+-- 595. Big Countries
 -- Problem Link: https://leetcode.com/problems/big-countries/
 -- Solution Link (Personal):
 

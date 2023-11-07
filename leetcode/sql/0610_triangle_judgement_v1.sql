@@ -1,4 +1,4 @@
--- 610. Triangle Judgement
+-- 610. Triangle Judgement (Answer v1)
 -- Problem Link: https://leetcode.com/problems/triangle-judgement/
 -- Solution Link (Personal):
 

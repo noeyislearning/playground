@@ -1,5 +1,5 @@
 /**
- * 2666. Allow One Function Call
+ * 2666. Allow One Function Call (Answer v1)
  * Problem Link: https://leetcode.com/problems/allow-one-function-call/
  * Solution Link (Personal):
  */
