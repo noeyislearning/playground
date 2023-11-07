@@ -10,8 +10,8 @@ const sortBy = (arr, fn) => {
   sorted.sort((a, b) => {
     const valA = fn(a);
     const valB = fn(b);
-    return valA - valB; 
+    return valA - valB;
   });
 
   return sorted;
-}
+};

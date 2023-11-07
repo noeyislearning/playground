@@ -21,7 +21,7 @@ class Calculator {
 
   multiply(value) {
     this.result *= value;
-    return this; 
+    return this;
   }
 
   divide(value) {
@@ -39,6 +39,6 @@ class Calculator {
   }
 
   getResult() {
-    return this.result; 
+    return this.result;
   }
 }

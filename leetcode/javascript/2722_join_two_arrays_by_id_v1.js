@@ -11,14 +11,14 @@ const join = (arr1, arr2) => {
     map.set(obj.id, obj);
   }
 
-  for (let obj of arr2) { 
+  for (let obj of arr2) {
     if (map.has(obj.id)) {
       let existing = map.get(obj.id);
-      map.set(obj.id, {...existing, ...obj}); 
+      map.set(obj.id, { ...existing, ...obj });
     } else {
       map.set(obj.id, obj);
     }
   }
 
-  return [...map.values()].sort((a, b) => a.id - b.id); 
-}
+  return [...map.values()].sort((a, b) => a.id - b.id);
+};

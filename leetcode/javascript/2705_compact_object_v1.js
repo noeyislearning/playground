@@ -4,8 +4,8 @@
  * Solution Link (Personal):
  */
 
-var compactObject = function(obj) {
-  if (typeof obj === 'object' && obj !== null) {
+var compactObject = function (obj) {
+  if (typeof obj === "object" && obj !== null) {
     if (Array.isArray(obj)) {
       return obj
         .map((element) => compactObject(element))
