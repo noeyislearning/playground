@@ -15,18 +15,18 @@ class Solution:
         def dfs(node):
             if not node:
                 return 0, 0
-            
+
             left_count, left_sum = dfs(node.left)
             right_count, right_sum = dfs(node.right)
-            
+
             count = left_count + right_count + 1
             sum_ = left_sum + right_sum + node.val
-            
+
             if node.val == sum_ // count:
                 self.ans += 1
-            
+
             return count, sum_
-        
+
         self.ans = 0
         dfs(root)        
         return self.ans
