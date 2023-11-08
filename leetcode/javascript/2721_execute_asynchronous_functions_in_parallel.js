@@ -1,5 +1,5 @@
 /**
- * 2721. Execute Asynchronous Functions in Parallel 
+ * 2721. Execute Asynchronous Functions in Parallel
  * Problem Link: https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/
  * Solution Link (Personal):
  */

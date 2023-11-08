@@ -1,5 +1,5 @@
 /**
- * 2677. Chunk Array 
+ * 2677. Chunk Array
  * Problem Link: https://leetcode.com/problems/chunk-array/
  * Solution Link (Personal):
  */

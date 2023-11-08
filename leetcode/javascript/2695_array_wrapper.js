@@ -1,5 +1,5 @@
 /**
- * 2695. Array Wrapper 
+ * 2695. Array Wrapper
  * Problem Link: https://leetcode.com/problems/array-wrapper/
  * Solution Link (Personal):
  */

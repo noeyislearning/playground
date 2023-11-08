@@ -1,5 +1,5 @@
 /**
- * 2629. Function Composition 
+ * 2629. Function Composition
  * Problem Link: https://leetcode.com/problems/function-composition/
  * Solution Link (Personal):
  */

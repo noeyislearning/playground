@@ -1,5 +1,5 @@
 /**
- * 2705. Compact Object 
+ * 2705. Compact Object
  * Problem Link: https://leetcode.com/problems/compact-object/
  * Solution Link (Personal):
  */
