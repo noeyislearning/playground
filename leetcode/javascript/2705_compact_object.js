@@ -14,7 +14,7 @@ var compactObject = function (obj) {
       const result = {};
       for (const key in obj) {
         const compactedValue = compactObject(obj[key]);
-        if (Boolean(compactedValue)) {
+        if (compactedValue) {
           result[key] = compactedValue;
         }
       }
