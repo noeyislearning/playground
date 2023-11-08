@@ -1,5 +1,5 @@
 /**
- * 2619. Array Prototype Last 
+ * 2619. Array Prototype Last
  * Problem Link: https://leetcode.com/problems/array-prototype-last/
  * Solution Link (Personal):
  */

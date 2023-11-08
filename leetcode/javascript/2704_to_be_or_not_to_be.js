@@ -1,5 +1,5 @@
 /**
- * 2704. To Be or Not to Be 
+ * 2704. To Be or Not to Be
  * Problem Link: https://leetcode.com/problems/to-be-or-not-to-be/
  * Solution Link (Personal):
  */

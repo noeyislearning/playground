@@ -1,5 +1,5 @@
 /**
- * 2722. Join Two Arrays by Id 
+ * 2722. Join Two Arrays by Id
  * Problem Link: https://leetcode.com/problems/join-two-arrays-by-id/
  * Solution Link (Personal):
  */

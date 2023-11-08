@@ -1,5 +1,5 @@
 /**
- * 2625. Flatten Deeply Nested Array 
+ * 2625. Flatten Deeply Nested Array
  * Problem Link: https://leetcode.com/problems/flatten-deeply-nested-array/
  * Solution Link (Personal):
  */

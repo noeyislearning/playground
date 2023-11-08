@@ -1,5 +1,5 @@
 /**
- * 2621. Sleep 
+ * 2621. Sleep
  * Problem Link: https://leetcode.com/problems/sleep/
  * Solution Link (Personal):
  */

@@ -1,5 +1,5 @@
 /**
- * 2631. Group By 
+ * 2631. Group By
  * Problem Link: https://leetcode.com/problems/group-by/
  * Solution Link (Personal):
  */

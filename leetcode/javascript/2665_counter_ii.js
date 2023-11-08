@@ -1,5 +1,5 @@
 /**
- * 2665. Counter II 
+ * 2665. Counter II
  * Problem Link: https://leetcode.com/problems/counter-ii/
  * Solution Link (Personal):
  */

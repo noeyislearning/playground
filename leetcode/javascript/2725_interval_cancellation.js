@@ -1,5 +1,5 @@
 /**
- * 2725. Interval Cancellation 
+ * 2725. Interval Cancellation
  * Problem Link: https://leetcode.com/problems/interval-cancellation/
  * Solution Link (Personal):
  */
