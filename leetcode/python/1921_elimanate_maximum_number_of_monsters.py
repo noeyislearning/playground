@@ -11,7 +11,7 @@ class Solution:
         n = len(dist)
         arrival_time = [(dist[i] + speed[i] - 1) // speed[i] for i in range(n)]
         arrival_time.sort()
-        
+
         for i in range(n):
             if i >= arrival_time[i]:
                 return i
