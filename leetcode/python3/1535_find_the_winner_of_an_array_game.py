@@ -4,7 +4,6 @@
  * Solution Link (Personal):
 """
 
-
 class Solution:
     def getWinner(self, arr: List[int], k: int) -> int:
         current_winner = arr[0]
