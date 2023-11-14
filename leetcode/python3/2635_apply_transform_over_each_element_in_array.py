@@ -1,7 +1,7 @@
 """
-2635. Apply Transform over Each Element in Array 
-Problem Link: https://leetcode.com/problems/apply-transform-over-each-element-in-array/
-Solution Link (Personal):
+ * 2635. Apply Transform over Each Element in Array 
+ * Problem Link: https://leetcode.com/problems/apply-transform-over-each-element-in-array/
+ * Solution Link (Personal):
 """
 
 from typing import List, Callable

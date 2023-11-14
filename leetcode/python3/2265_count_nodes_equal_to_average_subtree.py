@@ -1,7 +1,7 @@
 """
-2265. Count Nodes Equal to Average of Subtree 
-Problem Link: https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
-Solution Link (Personal):
+ * 2265. Count Nodes Equal to Average of Subtree 
+ * Problem Link: https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
+ * Solution Link (Personal):
 """
 
 class TreeNode:
