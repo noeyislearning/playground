@@ -18,6 +18,8 @@ Coding Playground is a repository of coding challenges that I solved of all leve
 [![Lang](https://img.shields.io/badge/CPP-7420EB?style=flat-square&logo=c%2B%2B&logoColor=E4E715)](/)
 [![Lang](https://img.shields.io/badge/Java-7420EB?style=flat-square&logo=openjdk&logoColor=E4E715)](/)
 [![Lang](https://img.shields.io/badge/CS-7420EB?style=flat-square&logo=csharp&logoColor=E4E715)](/)
+[![Lang](https://img.shields.io/badge/C-7420EB?style=flat-square&logo=c&logoColor=E4E715)](/)
+[![Lang](https://img.shields.io/badge/Go-7420EB?style=flat-square&logo=go&logoColor=E4E715)](/)
 
 ## Contents (Directories)
 
