@@ -1,5 +1,5 @@
 """
- * Find the Runner-Up Score!
+ * Find The Runner-Up Score!
 """
 
 if __name__ == "__main__":

@@ -1,5 +1,5 @@
 """
- * Write a function
+ * Write a Function
 """
 
 def is_leap(year):

@@ -1,5 +1,5 @@
 """
- * Print function
+ * Print Function
 """
 
 if __name__ == '__main__':
