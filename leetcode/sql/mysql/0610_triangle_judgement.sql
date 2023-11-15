@@ -3,8 +3,8 @@
 -- Solution Link (Personal):
 
 SELECT x, y, z,
-    CASE 
-        WHEN x + y > z AND y + z > x AND x + z > y THEN 'Yes'
+    CASE
+        WHEN (x + y + z) - GREATEST(x, y, z) > GREATEST(x, y, z) THEN 'Yes'
         ELSE 'No'
     END AS triangle
 FROM Triangle;
