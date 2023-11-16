@@ -1,0 +1,15 @@
+{
+  "name": "coding-playground",
+  "version": "1.0.0",
+  "description": "Coding Playground is a repository of coding challenges that I solved of all levels. The challenges are designed to help me improve my programming skills, learn new concepts, and practice problem-solving abilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "all-contributors-cli": "^6.26.1"
+  }
+}
