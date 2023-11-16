@@ -2,12 +2,6 @@
 
 Coding Playground is a repository of coding challenges that I solved of all levels. The challenges are designed to help me improve my programming skills, learn new concepts, and practice problem-solving abilities.
 
-🌱 Profiles
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-7420EB?style=flat-square&logo=hackerrank&logoColor=E4E715)](https://www.hackerrank.com/noeyislearning)
-[![Leetcode](https://img.shields.io/badge/Leetcode-7420EB?style=flat-square&logo=leetcode&logoColor=E4E715)](https://leetcode.com/noeyislearning)
-[![Project Euler](https://img.shields.io/badge/Project_Euler-7420EB?style=flat-square&logo=safari&logoColor=E4E715)](https://projecteuler.net/profile/noeyislearning.png)
-
 ⚙️ Languages used
 
 [![Lang](https://img.shields.io/badge/Python-7420EB?style=flat-square&logo=Python&logoColor=E4E715)](/)
