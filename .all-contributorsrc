@@ -27,6 +27,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "jribrahimlincoln",
+      "name": "Ibrahim Lincoln Jr.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150978560?v=4",
+      "profile": "https://github.com/jribrahimlincoln",
+      "contributions": [
+        "doc",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

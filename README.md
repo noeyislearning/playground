@@ -1,6 +1,6 @@
 # Coding Playground
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Coding Playground is a repository of coding challenges that I solved of all levels. The challenges are designed to help me improve my programming skills, learn new concepts, and practice problem-solving abilities.
@@ -42,6 +42,7 @@ Thanks goes to these wonderful people! ([emoji key](https://allcontributors.org/
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://jfmengels.net/"><img src="https://avatars.githubusercontent.com/u/3869412?v=4?s=100" width="100px;" alt="Jeroen Engels"/><br /><sub><b>Jeroen Engels</b></sub></a><br /><a href="https://github.com/Francis Ignacio/./commits?author=jfmengels" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/noeyislearning"><img src="https://avatars.githubusercontent.com/u/132775768?v=4?s=100" width="100px;" alt="Noey Ignacio"/><br /><sub><b>Noey Ignacio</b></sub></a><br /><a href="https://github.com/Francis Ignacio/./commits?author=noeyislearning" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jribrahimlincoln"><img src="https://avatars.githubusercontent.com/u/150978560?v=4?s=100" width="100px;" alt="Ibrahim Lincoln Jr."/><br /><sub><b>Ibrahim Lincoln Jr.</b></sub></a><br /><a href="https://github.com/Francis Ignacio/./commits?author=jribrahimlincoln" title="Documentation">📖</a> <a href="https://github.com/Francis Ignacio/./commits?author=jribrahimlincoln" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
