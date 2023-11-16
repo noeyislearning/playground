@@ -40,19 +40,11 @@ Thanks goes to these wonderful people! ([emoji key](https://allcontributors.org/
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://jfmengels.net/"><img src="https://avatars.githubusercontent.com/u/3869412?v=4?s=100" width="100px;" alt="Jeroen Engels"/><br /><sub><b>Jeroen Engels</b></sub></a><br /><a href="https://github.com/Francis Ignacio/./commits?author=jfmengels" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/noeyislearning"><img src="https://avatars.githubusercontent.com/u/132775768?v=4?s=100" width="100px;" alt="Noey Ignacio"/><br /><sub><b>Noey Ignacio</b></sub></a><br /><a href="https://github.com/Francis Ignacio/./commits?author=noeyislearning" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/noeyislearning"><img src="https://avatars.githubusercontent.com/u/132775768?v=4?s=100" width="100px;" alt="Noey Ignacio"/><br /><sub><b>Noey Ignacio</b></sub></a><br /><a href="https://github.com/Francis Ignacio/./commits?author=jribrahimlincoln" title="Documentation">📖</a> <a href="https://github.com/Francis Ignacio/./commits?author=jribrahimlincoln" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jribrahimlincoln"><img src="https://avatars.githubusercontent.com/u/150978560?v=4?s=100" width="100px;" alt="Ibrahim Lincoln Jr."/><br /><sub><b>Ibrahim Lincoln Jr.</b></sub></a><br /><a href="https://github.com/Francis Ignacio/./commits?author=jribrahimlincoln" title="Documentation">📖</a> <a href="https://github.com/Francis Ignacio/./commits?author=jribrahimlincoln" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
-    <tr>
-      <td align="center" size="13px" colspan="7">
-        <img src="https://raw.githubusercontent.com/all-contributors/all-contributors-cli/1b8533af435da9854653492b1327a23a4dbd0a10/assets/logo-small.svg">
-          <a href="https://all-contributors.js.org/docs/en/bot/usage">Add your contributions</a>
-        </img>
-      </td>
-    </tr>
   </tfoot>
 </table>
 
