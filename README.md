@@ -30,25 +30,8 @@ Coding Playground is a repository of coding challenges that I solved of all leve
 - [Project Euler](https://github.com/noeyislearning/coding-playground/tree/main/project-euler)
 - [Interview Prep](https://github.com/noeyislearning/coding-playground/tree/main/interview-prep)
 
-## Contributors ✨
+## Contributors
 
-Thanks goes to these wonderful people! ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/noeyislearning"><img src="https://avatars.githubusercontent.com/u/132775768?v=4?s=100" width="100px;" alt="Noey Ignacio"/><br /><sub><b>Noey Ignacio</b></sub></a><br /><a href="https://github.com/Francis Ignacio/./commits?author=jribrahimlincoln" title="Documentation">📖</a> <a href="https://github.com/Francis Ignacio/./commits?author=jribrahimlincoln" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jribrahimlincoln"><img src="https://avatars.githubusercontent.com/u/150978560?v=4?s=100" width="100px;" alt="Ibrahim Lincoln Jr."/><br /><sub><b>Ibrahim Lincoln Jr.</b></sub></a><br /><a href="https://github.com/Francis Ignacio/./commits?author=jribrahimlincoln" title="Documentation">📖</a> <a href="https://github.com/Francis Ignacio/./commits?author=jribrahimlincoln" title="Code">💻</a></td>
-    </tr>
-  </tbody>
-  <tfoot>
-  </tfoot>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+<a href="https://github.com/noeyislearning/playground/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=noeyislearning/playground" />
+</a>
