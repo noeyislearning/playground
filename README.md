@@ -2,6 +2,11 @@
 
 Coding Playground is a repository of coding challenges that I solved of all levels. The challenges are designed to help me improve my programming skills, learn new concepts, and practice problem-solving abilities.
 
+📛 Status Issues
+
+[![DeepSource](https://app.deepsource.com/gh/noeyislearning/playground.svg/?label=active+issues&show_trend=true&token=b_2fm-2jBp6GdOBBK2k98oVL)](https://app.deepsource.com/gh/noeyislearning/playground/)
+[![DeepSource](https://app.deepsource.com/gh/noeyislearning/playground.svg/?label=resolved+issues&show_trend=true&token=b_2fm-2jBp6GdOBBK2k98oVL)](https://app.deepsource.com/gh/noeyislearning/playground/)
+
 ⚙️ Languages used
 
 [![Lang](https://img.shields.io/badge/Python-7420EB?style=flat-square&logo=Python&logoColor=E4E715)](/)
