@@ -1,7 +1,4 @@
 # Coding Playground
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Coding Playground is a repository of coding challenges that I solved of all levels. The challenges are designed to help me improve my programming skills, learn new concepts, and practice problem-solving abilities.
 
@@ -32,6 +29,4 @@ Coding Playground is a repository of coding challenges that I solved of all leve
 
 ## Contributors
 
-<a href="https://github.com/noeyislearning/playground/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=noeyislearning/playground" />
-</a>
+[![Lang](https://contrib.rocks/image?repo=noeyislearning/playground)](https://github.com/noeyislearning/playground/graphs/contributors)
