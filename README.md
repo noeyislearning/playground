@@ -1,6 +1,6 @@
-# Coding Playground
+# Playground
 
-Coding Playground is a repository of coding challenges that I solved of all levels. The challenges are designed to help me improve my programming skills, learn new concepts, and practice problem-solving abilities.
+Playground is a repository of coding challenges that I solved of all levels. The challenges are designed to help me improve my programming skills, learn new concepts, and practice problem-solving abilities.
 
 📛 Repository Status
 
@@ -27,6 +27,16 @@ Coding Playground is a repository of coding challenges that I solved of all leve
 - [Project Euler](https://github.com/noeyislearning/coding-playground/tree/main/project-euler)
 - [Interview Prep](https://github.com/noeyislearning/coding-playground/tree/main/interview-prep)
 
+## Code Quality
+
+We maintain code quality through automated analysis tools such as DeepSource. Ensure your contributions meet the project's standards by running tests and keeping the code clean and well-documented.
+
 ## Contributors
 
-[![Lang](https://contrib.rocks/image?repo=noeyislearning/playground)](https://github.com/noeyislearning/playground/graphs/contributors)
+Thanks to all the contributors who have helped shape and improve this repository! Check out the [list of contributors](https://github.com/noeyislearning/playground/graphs/contributors).
+
+[![Contribtors](https://contrib.rocks/image?repo=noeyislearning/playground)](https://github.com/noeyislearning/playground/graphs/contributors)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE), allowing for collaboration and modification while ensuring attribution and the inclusion of the original license in all copies or substantial portions of the software.
