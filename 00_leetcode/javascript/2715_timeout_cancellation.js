@@ -1,7 +1,6 @@
 /**
  * 2715. Timeout Cancellation
  * Problem Link: https://leetcode.com/problems/timeout-cancellation/
- * Solution Link (Personal):
  */
 
 var cancellable = function (fn, args, t) {

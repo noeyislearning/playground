@@ -1,7 +1,6 @@
 /**
  * 2722. Join Two Arrays by Id
  * Problem Link: https://leetcode.com/problems/join-two-arrays-by-id/
- * Solution Link (Personal):
  */
 
 const join = (arr1, arr2) => {
