@@ -1,7 +1,6 @@
 /**
  * 2725. Interval Cancellation
  * Problem Link: https://leetcode.com/problems/interval-cancellation/
- * Solution Link (Personal):
  */
 
 var cancellable = function (fn, args, t) {

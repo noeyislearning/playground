@@ -1,7 +1,6 @@
 /**
  * 2724. Sort by
  * Problem Link: https://leetcode.com/problems/sort-by/
- * Solution Link (Personal):
  */
 
 const sortBy = (arr, fn) => {

@@ -1,7 +1,6 @@
 /**
  * 2726. Calculator with Method Chaining
  * Problem Link: https://leetcode.com/problems/calculator-with-method-chaining/
- * Solution Link (Personal):
  */
 
 class Calculator {

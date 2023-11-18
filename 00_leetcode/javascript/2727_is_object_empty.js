@@ -1,7 +1,6 @@
 /**
  * 2727. Is Object Empty?
  * Problem Link: https://leetcode.com/problems/is-object-empty/
- * Solution Link (Personal):
  */
 
 const isEmpty = (obj) => {
