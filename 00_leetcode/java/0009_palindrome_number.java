@@ -1,7 +1,6 @@
 /**
  * 9. Palindrome Number
  * Problem Link: https://leetcode.com/problems/palindrome-number/
- * Solution Link (Personal):
  */
 
 class Solution {

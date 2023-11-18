@@ -1,7 +1,6 @@
 /**
  * 2642. Design Graph With Shortest Path Calculator
  * Problem Link: https://leetcode.com/problems/design-graph-with-shortest-path-calculator/
- * Solution Link (Personal):
  */
 
 import java.util.*;

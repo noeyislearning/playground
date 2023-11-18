@@ -1,7 +1,6 @@
 /**
  * 1980. Find Unique Binary String
  * Problem Link: https://leetcode.com/problems/find-unique-binary-string/
- * Solution Link (Personal):
  */
 
 import java.util.HashSet;

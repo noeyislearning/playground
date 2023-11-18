@@ -1,7 +1,6 @@
 /**
  * 1. Two Sum
  * Problem Link: https://leetcode.com/problems/two-sum/
- * Solution Link (Personal):
  */
 
 import java.util.HashMap;

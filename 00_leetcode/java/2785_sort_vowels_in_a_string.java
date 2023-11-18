@@ -1,7 +1,6 @@
 /**
  * 2785. Sort Vowels in a String
  * Problem Link: https://leetcode.com/problems/sort-vowels-in-a-string/
- * Solution Link (Personal):
  */
 
 
