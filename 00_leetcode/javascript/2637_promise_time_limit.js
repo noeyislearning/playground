@@ -1,7 +1,6 @@
 /**
  * 2637. Promise Time Limit
  * Problem Link: https://leetcode.com/problems/promise-time-limit/
- * Solution Link (Personal):
  */
 
 var timeLimit = function (fn, t) {

@@ -1,7 +1,6 @@
 /**
  * 2629. Function Composition
  * Problem Link: https://leetcode.com/problems/function-composition/
- * Solution Link (Personal):
  */
 
 var compose = function (functions) {
