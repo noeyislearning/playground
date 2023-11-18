@@ -1,7 +1,6 @@
 /**
  * 2723. Add Two Promises
  * Problem Link: https://leetcode.com/problems/add-two-promises/
- * Solution Link (Personal):
  */
 
 var addTwoPromises = async function (promise1, promise2) {
