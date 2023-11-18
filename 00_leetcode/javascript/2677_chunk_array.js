@@ -1,7 +1,6 @@
 /**
  * 2677. Chunk Array
  * Problem Link: https://leetcode.com/problems/chunk-array/
- * Solution Link (Personal):
  */
 
 const chunk = (arr, size) => {
