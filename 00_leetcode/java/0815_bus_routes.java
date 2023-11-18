@@ -1,7 +1,6 @@
 /**
  * 815. Bus Routes
  * Problem Link: https://leetcode.com/problems/bus-routes/
- * Solution Link (Personal):
  */
 
 class Solution {

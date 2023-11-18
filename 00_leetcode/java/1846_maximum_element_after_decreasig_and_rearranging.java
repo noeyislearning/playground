@@ -1,7 +1,6 @@
 /**
  * 1846. Maximum Element After Decreasing and Rearranging
  * Problem Link: https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
- * Solution Link (Personal):
 */
 
 class Solution {
