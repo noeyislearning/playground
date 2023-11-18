@@ -1,7 +1,6 @@
 /**
  * 2665. Counter II
  * Problem Link: https://leetcode.com/problems/counter-ii/
- * Solution Link (Personal):
  */
 
 var createCounter = function (init) {
