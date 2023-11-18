@@ -1,7 +1,6 @@
 /**
  * 2621. Sleep
  * Problem Link: https://leetcode.com/problems/sleep/
- * Solution Link (Personal):
  */
 
 function sleep(millis) {
