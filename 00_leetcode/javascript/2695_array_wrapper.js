@@ -1,7 +1,6 @@
 /**
  * 2695. Array Wrapper
  * Problem Link: https://leetcode.com/problems/array-wrapper/
- * Solution Link (Personal):
  */
 
 class ArrayWrapper {

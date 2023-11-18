@@ -1,7 +1,6 @@
 /**
  * 2666. Allow One Function Call
  * Problem Link: https://leetcode.com/problems/allow-one-function-call/
- * Solution Link (Personal):
  */
 
 var once = function (fn) {

@@ -1,7 +1,6 @@
 /**
  * 2694. Event Emitter
  * Problem Link: https://leetcode.com/problems/event-emitter/
- * Solution Link (Personal):
  */
 
 class EventEmitter {
