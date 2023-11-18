@@ -1,7 +1,6 @@
 """
  * 20. Valid Parentheses 
  * Problem Link: https://leetcode.com/problems/valid-parentheses/
- * Solution Link (Personal): https://leetcode.com/problems/valid-parentheses/submissions/1101404657/
 """
 
 class Solution:
