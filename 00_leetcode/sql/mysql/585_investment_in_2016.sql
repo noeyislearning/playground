@@ -1,6 +1,5 @@
 -- 585. Investment in 2016 
 -- Problem Link: https://leetcode.com/problems/investment-in-2016/
--- Solution Link (Personal): https://leetcode.com/problems/investments-in-2016/submissions/1100465243?envType=study-plan-v2&envId=top-sql-50
 
 SELECT ROUND(SUM(tiv_2016), 2) AS tiv_2016
 FROM Insurance
