@@ -1,6 +1,5 @@
 -- 626. Exchange Seats 
 -- Problem Link: https://leetcode.com/problems/exchange-seats/
--- Solution Link (Personal):
 
 SELECT
     CASE

@@ -1,6 +1,5 @@
 -- 610. Triangle Judgement 
 -- Problem Link: https://leetcode.com/problems/triangle-judgement/
--- Solution Link (Personal):
 
 SELECT x, y, z,
     CASE

@@ -1,6 +1,5 @@
 -- 602. Friend Requests II: Who Has the Most Friends 
 -- Problem Link: https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/
--- Solution Link (Personal):
 
 SELECT id, COUNT(*) AS num 
 FROM (
