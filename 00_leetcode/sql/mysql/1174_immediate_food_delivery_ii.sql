@@ -1,6 +1,5 @@
 -- 1174. Immediate Food Delivery II 
 -- Problem Link: https://leetcode.com/problems/immediate-food-delivery-ii/
--- Solution Link (Personal):
 
 WITH CTE AS (
   SELECT 

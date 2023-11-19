@@ -1,6 +1,5 @@
 -- 1070. Product Sales Analysis III
 -- Problem Link: https://leetcode.com/problems/product-sales-analysis-iii/
--- Solution Link (Personal):
 
 SELECT 
     s.product_id, 

@@ -1,6 +1,5 @@
 -- 1164. Product Price at a Given Date 
 -- Problem Link: https://leetcode.com/problems/product-price-at-a-given-date/
--- Solution Link (Personal):
 
 SELECT p1.product_id, COALESCE(p2.new_price, 10) AS price
 FROM (
