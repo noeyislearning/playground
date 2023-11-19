@@ -1,6 +1,5 @@
 -- 1517. Find Users With Valid Emails 
 -- Problem Link: https://leetcode.com/problems/find-users-with-valid-emails/
--- Solution Link (Personal): 
 
 SELECT user_id, name, mail
 FROM Users

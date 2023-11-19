@@ -1,6 +1,5 @@
 -- 1484. Group Sold Products by the Date 
 -- Problem Link: https://leetcode.com/problems/group-sold-products-by-the-date/
--- Solution Link (Personal): 
 
 SELECT 
     sell_date,

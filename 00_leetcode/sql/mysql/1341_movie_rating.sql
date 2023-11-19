@@ -1,6 +1,5 @@
 -- 1341. Movie Rating 
 -- Problem Link: https://leetcode.com/problems/movie-rating/
--- Solution Link (Personal):
 
 (
   SELECT name AS results
