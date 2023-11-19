@@ -1,6 +1,5 @@
 -- 586. Customer Placing the Largest Number of Orders 
 -- Problem Link: https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/
--- Solution Link (Personal):
 
 SELECT customer_number
 FROM Orders

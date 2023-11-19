@@ -1,6 +1,5 @@
 -- 550. Game Play Analysis IV
 -- Problem Link: https://leetcode.com/problems/game-play-analysis-iv/
--- Solution Link (Personal):
 
 WITH first_login AS (
   SELECT 
