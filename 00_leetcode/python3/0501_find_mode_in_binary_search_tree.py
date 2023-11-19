@@ -1,7 +1,6 @@
 """
  * 501. Find Mode in Binary Search Tree 
  * Problem Link: https://leetcode.com/problems/find-mode-in-binary-search-tree/
- * Solution Link (Personal):
 """
 
 class TreeNode:

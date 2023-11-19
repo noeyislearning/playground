@@ -1,7 +1,6 @@
 """
  * 1503. Last Moment Before All Ants Fall Out of a Plank 
  * Problem Link: https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/
- * Solution Link (Personal):
 """
 
 from typing import List

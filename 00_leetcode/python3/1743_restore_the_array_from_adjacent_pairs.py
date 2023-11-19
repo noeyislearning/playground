@@ -1,7 +1,6 @@
 """
  * 1743. Restore the Array From Adjacent Pairs
  * Problem Link: https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/
- * Solution Link (Personal):
 """
 
 from typing import List

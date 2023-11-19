@@ -1,7 +1,6 @@
 """
  * 1535. Find the Winner of an Array Game
  * Problem Link: https://leetcode.com/problems/find-the-winner-of-an-array-game/
- * Solution Link (Personal):
 """
 
 class Solution:

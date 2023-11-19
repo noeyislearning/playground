@@ -1,7 +1,6 @@
 """
  * 1441. Build an Array With Stack Operations 
  * Problem Link: https://leetcode.com/problems/build-an-array-with-stack-operations/
- * Solution Link (Personal):
 """
 
 class Solution:
