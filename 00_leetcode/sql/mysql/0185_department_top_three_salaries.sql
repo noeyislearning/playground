@@ -1,7 +1,5 @@
 -- 185. Department Top Three Salaries 
 -- Problem Link: https://leetcode.com/problems/department-top-three-salaries/
--- Solution Link (Personal): 
-
 
 SELECT d.name AS Department, e.name AS Employee, e.salary AS Salary
 FROM (

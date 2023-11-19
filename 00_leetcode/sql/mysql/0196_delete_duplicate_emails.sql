@@ -1,6 +1,5 @@
 -- 196. Delete Duplicate Emails 
 -- Problem Link: https://leetcode.com/problems/delete-duplicate-emails/
--- Solution Link (Personal): 
 
 DELETE FROM Person
 WHERE id IN (
