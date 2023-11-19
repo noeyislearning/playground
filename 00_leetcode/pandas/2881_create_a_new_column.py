@@ -1,7 +1,6 @@
 """
  * 2881. Create a New Column
  * Problem Link: https://leetcode.com/problems/create-a-new-column/
- * Solution Link (Personal):
 """
 
 import pandas as pd

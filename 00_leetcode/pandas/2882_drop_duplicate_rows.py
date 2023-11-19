@@ -1,7 +1,6 @@
 """
  * 2882. Drop Duplicate Rows 
  * Problem Link: https://leetcode.com/problems/drop-duplicate-rows/
- * Solution Link (Personal):
 """
 
 import pandas as pd

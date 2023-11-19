@@ -1,7 +1,6 @@
 """
  * 2878. Get the Size of a DataFrame
  * Problem Link: https://leetcode.com/problems/get-the-size-of-a-dataframe/
- * Solution Link (Personal):
 """
 
 from typing import List
