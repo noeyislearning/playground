@@ -1,6 +1,5 @@
 -- 607. Sales Person 
 -- Problem Link: https://leetcode.com/problems/sales-person/
--- Solution Link (Personal):
 
 SELECT s.name
 FROM SalesPerson s

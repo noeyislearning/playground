@@ -1,6 +1,5 @@
 -- 619. Biggest Single Number 
 -- Problem Link: https://leetcode.com/problems/biggest-single-number/
--- Solution Link (Personal):
 
 WITH SingleNumbers AS (
     SELECT num

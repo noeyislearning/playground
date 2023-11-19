@@ -1,6 +1,5 @@
 -- 1045. Customers Who Bought All Products 
 -- Problem Link: https://leetcode.com/problems/customers-who-bought-all-products/
--- Solution Link (Personal):
 
 SELECT c.customer_id
 FROM Customer c
