@@ -1,7 +1,6 @@
 """
  * 2877. Create a DataFrame from List
  * Problem Link: https://leetcode.com/problems/create-a-dataframe-from-list/
- * Solution Link (Personal):
 """
 
 from typing import List
