@@ -1,7 +1,6 @@
 """
  * 1838. Frequency of the Most Frequent Element
  * Problem Link: https://leetcode.com/problems/frequency-of-the-most-frequent-element/
- * Solution Link (Personal):
 """
 
 from typing import List
