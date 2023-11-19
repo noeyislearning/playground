@@ -1,7 +1,6 @@
 """
  * 2884. Modify Columns 
  * Problem Link: https://leetcode.com/problems/modify-columns/
- * Solution Link (Personal):
 """
 
 import pandas as pd
