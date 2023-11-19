@@ -1,6 +1,5 @@
 -- 180. Consecutive Numbers 
 -- Problem Link: https://leetcode.com/problems/consecutive-numbers/
--- Solution Link (Personal):
 
 SELECT DISTINCT num AS ConsecutiveNums
 FROM (

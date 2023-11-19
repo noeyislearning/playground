@@ -1,6 +1,5 @@
 -- 176. Second Highest Salary 
 -- Problem Link: https://leetcode.com/problems/second-highest-salary/
--- Solution Link (Personal): 
 
 SELECT 
     IFNULL(
