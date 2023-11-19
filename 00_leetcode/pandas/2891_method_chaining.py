@@ -1,7 +1,6 @@
 """
  * 2891. Method Chaining 
  * Problem Link: https://leetcode.com/problems/method-chaining/
- * Solution Link (Personal):
 """
 
 import pandas as pd

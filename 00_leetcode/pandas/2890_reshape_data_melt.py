@@ -1,7 +1,6 @@
 """
  * 2890. Reshape Data: Melt 
  * Problem Link: https://leetcode.com/problems/reshape-data-melt/
- * Solution Link (Personal):
 """
 
 import pandas as pd
