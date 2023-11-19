@@ -1,7 +1,6 @@
 """
  * 2889. Reshape Data: Pivot (Answer 1)
  * Problem Link: https://leetcode.com/problems/reshape-data-pivot/
- * Solution Link (Personal):
 """
 
 import pandas as pd
