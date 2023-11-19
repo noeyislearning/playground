@@ -1,6 +1,5 @@
 -- 1211. Queries Quality and Percentage
 -- Problem Link: https://leetcode.com/problems/queries-quality-and-percentage/
--- Solution Link (Personal):
 
 SELECT 
     query_name,
