@@ -1,6 +1,5 @@
 -- 1327. List the Products Ordered in a Period 
 -- Problem Link: https://leetcode.com/problems/list-the-products-ordered-in-a-period/
--- Solution Link (Personal): 
 
 SELECT p.product_name, SUM(o.unit) AS unit
 FROM Products p 

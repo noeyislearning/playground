@@ -1,6 +1,5 @@
 -- 1321. Restaurant Growth 
 -- Problem Link: https://leetcode.com/problems/restaurant-growth/
--- Solution Link (Personal):
 
 WITH cte AS
 (

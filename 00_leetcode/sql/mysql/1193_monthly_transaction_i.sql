@@ -1,6 +1,5 @@
 -- 1193. Monthly Transactions I
 -- Problem Link: https://leetcode.com/problems/monthly-transactions-i/
--- Solution Link (Personal):
 
 SELECT 
     DATE_FORMAT(trans_date, '%Y-%m') AS month,

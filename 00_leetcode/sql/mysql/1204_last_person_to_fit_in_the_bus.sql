@@ -1,6 +1,5 @@
 -- 1204. Last Person to Fit in the Bus 
 -- Problem Link: https://leetcode.com/problems/last-person-to-fit-in-the-bus/
--- Solution Link (Personal):
 
 SELECT person_name
 FROM (
