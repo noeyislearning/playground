@@ -1,6 +1,5 @@
 -- 182. Duplicate Emails 
 -- Problem Link: https://leetcode.com/problems/duplicate-emails/
--- Solution Link (Personal): 
 
 SELECT email as Email
 FROM Person

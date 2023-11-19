@@ -1,6 +1,5 @@
 -- 181. Employees Earning More Than Their Managers 
 -- Problem Link: https://leetcode.com/problems/employees-earning-more-than-their-managers/
--- Solution Link (Personal): 
 
 SELECT e1.name AS Employee
 FROM Employee e1
