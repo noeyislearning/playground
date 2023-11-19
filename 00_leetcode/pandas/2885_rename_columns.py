@@ -1,7 +1,6 @@
 """
  * 2885. Rename Columns 
  * Problem Link: https://leetcode.com/problems/rename-columns/
- * Solution Link (Personal):
 """
 
 import pandas as pd

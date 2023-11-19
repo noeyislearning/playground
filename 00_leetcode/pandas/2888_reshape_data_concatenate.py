@@ -1,7 +1,6 @@
 """
  * 2888. Reshape Data: Concatenate 
  * Problem Link: https://leetcode.com/problems/reshape-data-concatenate/
- * Solution Link (Personal):
 """
 
 import pandas as pd
