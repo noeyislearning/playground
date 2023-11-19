@@ -1,7 +1,6 @@
 """
  * 1845. Seat Reservation Manager 
  * Problem Link: https://leetcode.com/problems/seat-reservation-manager/
- * Solution Link (Personal):
 """
 
 import heapq

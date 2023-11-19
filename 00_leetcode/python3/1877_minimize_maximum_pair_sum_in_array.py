@@ -1,7 +1,6 @@
 """
  * 1877. Minimize Maximum Pair Sum in Array
  * Problem Link: https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
- * Solution Link (Personal):
 """
 
 class Solution:

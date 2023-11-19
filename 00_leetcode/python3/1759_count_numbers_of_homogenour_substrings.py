@@ -1,7 +1,6 @@
 """
  * 1759. Count Number of Homogenous Substrings
  * Problem Link: https://leetcode.com/problems/count-number-of-homogenous-substrings/
- * Solution Link (Personal):
 """
 
 class Solution:
