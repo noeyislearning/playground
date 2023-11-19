@@ -1,7 +1,6 @@
 """
  * 1921. Eliminate Maximum Number of Monsters 
  * Problem Link: https://leetcode.com/problems/eliminate-maximum-number-of-monsters/
- * Solution Link (Personal):
 """
 
 from typing import List
