@@ -1,7 +1,6 @@
 /**
  * 2626. Array Reduce Transformation
  * Problem Link: https://leetcode.com/problems/array-reduce-transformation/
- * Solution Link (Personal):
  */
 
 const reduce = (
