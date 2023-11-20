@@ -1,6 +1,5 @@
 -- 1934. Confirmation Rate
 -- Problem Link: https://leetcode.com/problems/confirmation-rate/
--- Solution Link (Personal):
 
 SELECT
     s.user_id,
