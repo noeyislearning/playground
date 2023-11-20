@@ -1,6 +1,5 @@
 -- 197. Rising Temperature
 -- Problem Link: https://leetcode.com/problems/rising-temperature/
--- Solution Link (Personal):
 
 WITH DirectReports AS (
     SELECT managerId, COUNT(*) AS num_reports

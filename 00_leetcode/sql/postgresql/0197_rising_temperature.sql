@@ -1,6 +1,5 @@
 -- 197. Rising Temperature
 -- Problem Link: https://leetcode.com/problems/rising-temperature/
--- Solution Link (Personal):
 
 SELECT w1.id
 FROM Weather w1
