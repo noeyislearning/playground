@@ -1,6 +1,5 @@
 -- 1978. Employees Whose Manager Left the Company
 -- Problem Link: https://leetcode.com/problems/employees-whose-manager-left-the-company/
--- Solution Link (Personal):
 
 SELECT e.employee_id 
 FROM Employees e 
