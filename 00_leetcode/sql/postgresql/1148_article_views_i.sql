@@ -1,6 +1,5 @@
 -- 1148. Article Views I
 -- Problem Link: https://leetcode.com/problems/article-views-i/
--- Solution Link (Personal):
 
 SELECT DISTINCT author_id AS id
 FROM Views

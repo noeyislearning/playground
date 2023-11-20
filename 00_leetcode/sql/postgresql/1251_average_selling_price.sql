@@ -1,6 +1,5 @@
 -- 1251. Average Selling Price
 -- Problem Link: https://leetcode.com/problems/average-selling-price/
--- Solution Link (Personal):
 
 SELECT
     p.product_id,
