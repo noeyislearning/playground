@@ -1,6 +1,5 @@
 -- 1280. Students and Examinations
 -- Problem Link: https://leetcode.com/problems/students-and-examinations/
--- Solution Link (Personal):
 
 WITH Cartesian AS (
     SELECT DISTINCT s.student_id, sub.subject_name
