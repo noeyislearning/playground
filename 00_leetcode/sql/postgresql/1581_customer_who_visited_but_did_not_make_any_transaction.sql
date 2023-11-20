@@ -1,7 +1,5 @@
 -- 1581. Customer Who Visited but Did Not Make Any Transactions 
 -- Problem Link: https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/
--- Solution Link (Personal):
-
 
 WITH visits_without_transactions AS (
   SELECT v.customer_id, v.visit_id
