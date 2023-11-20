@@ -1,6 +1,5 @@
 -- 1789. Primary Department for Each Employee
 -- Problem Link: https://leetcode.com/problems/primary-department-for-each-employee/
--- Solution Link (Personal):
 
 SELECT employee_id, department_id
 FROM Employee
