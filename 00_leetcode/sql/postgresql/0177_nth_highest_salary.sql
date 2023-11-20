@@ -1,6 +1,5 @@
 -- 177. Nth Highest Salary 
 -- Problem Link: https://leetcode.com/problems/nth-highest-salary/
--- Solution Link (Personal):
 
 CREATE OR REPLACE FUNCTION NthHighestSalary(N INT) RETURNS INT AS $$
 DECLARE
