@@ -38,13 +38,16 @@ Full tech stack [here](/techstack.md)
 <div align="center">
 
 # Tech Stack File
+
 ![](https://img.stackshare.io/repo.svg "repo") [noeyislearning/playground](https://github.com/noeyislearning/playground)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
 |12<br/>Tools used|02/14/24 <br/>Report generated|
 |------|------|
+
 </div>
 
 ## <img src='https://img.stackshare.io/languages.svg'/> Languages (9)
+
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'>
@@ -124,6 +127,7 @@ Full tech stack [here](/techstack.md)
 </table>
 
 ## <img src='https://img.stackshare.io/devops.svg'/> DevOps (2)
+
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
@@ -144,14 +148,13 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-
 ## <img src='https://img.stackshare.io/group.svg' /> Open source packages (1)</h2>
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (1)
 
-|NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
-|:------|:------|:------|:------|:------|:------|
-|[all-contributors-cli](https://www.npmjs.com/all-contributors-cli)|v6.26.1|11/16/23|Ibrahim Lincoln |MIT|N/A|
+| NAME                                                               | VERSION | LAST UPDATED | LAST UPDATED BY | LICENSE | VULNERABILITIES |
+| :----------------------------------------------------------------- | :------ | :----------- | :-------------- | :------ | :-------------- |
+| [all-contributors-cli](https://www.npmjs.com/all-contributors-cli) | v6.26.1 | 11/16/23     | Ibrahim Lincoln | MIT     | N/A             |
 
 <br/>
 <div align='center'>
