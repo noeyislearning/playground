@@ -1,15 +1,33 @@
 {
-  "name": "coding-playground",
+  "name": "playground",
   "version": "1.0.0",
-  "description": "Coding Playground is a repository of coding challenges that I solved of all levels. The challenges are designed to help me improve my programming skills, learn new concepts, and practice problem-solving abilities.",
+  "description": "Playground is a collaborative repository of coding challenges that we have collectively solved across all levels. These challenges are meticulously curated to assist us in enhancing our programming skills, acquiring new concepts, and honing our problem-solving abilities through consistent practice.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vitepress dev src",
+    "build": "vitepress build src",
+    "preview": "vitepress preview src"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noeyislearning/playground.git"
+  },
+  "keywords": [
+    "playground",
+    "leetcode",
+    "hackerrank"
+  ],
+  "author": "Noey Ignacio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noeyislearning/playground/issues"
+  },
+  "homepage": "https://github.com/noeyislearning/playground#readme",
+  "dependencies": {
+    "prettier": "^3.2.5"
+  },
+  "type": "module",
   "devDependencies": {
-    "all-contributors-cli": "^6.26.1"
+    "vitepress": "^1.1.3"
   }
 }

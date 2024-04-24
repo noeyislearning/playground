@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Space+Mono:regular,italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=Space+Grotesk:regular,italic,700,700italic);
+
+:root {
+  --vp-c-brand: #9261fe;
+  --vp-c-brand-light: #ff5719;
+  --vp-c-brand-lighter: #ff7340;
+  --vp-c-brand-lighter: rgba(255, 135, 23, 0.25);
+  --vp-c-brand-dark: #9261fe;
+  --vp-c-brand-darker: #e23c00;
+
+  --vp-font-family-base: "Space Grotesk", "Inter var experimental", "Inter var", -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
+
+  --vp-font-family-mono: "Space Mono", Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.custom-layout .btn {
+  background-color: var(--vp-button-brand-bg);
+  color: var(--vp-button-brand-text);
+  border-radius: 20px;
+  padding: 0.5rem 1.4rem;
+}
