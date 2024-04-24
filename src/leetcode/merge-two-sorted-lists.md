@@ -4,7 +4,7 @@ title: Merge Two Sorted Lists
 
 # Merge Two Sorted Lists
 
-<Badge type="warning" text="LeetCode" /> <Badge type="info" text="#21" /> <Badge type="info" text="Python3" /> <Badge type="info" text="Easy 🟢" /> <Badge type="info" text="Solve by @noeyislearning" />
+<Badge type="warning" text="LeetCode" /> <a href="https://leetcode.com/problems/merge-two-sorted-lists/" target="_blank"><Badge type="warning" text="#21" /> </a> <Badge type="info" text="🟢 Easy" /> <Badge type="info" text="Python3" /> <a href="https://github.com/noeyislearning" target="_blank"><Badge type="tip" text="Solve by @noeyislearning" /> </a>
 
 ## Problem Statement
 
@@ -74,7 +74,7 @@ Your code is like a special necklace sorting machine. Here's how it works:
 - **(Step 2)** Machine picks a '1' bead and puts it on the super-necklace.
 - **(Step 3)** Now the machine calls itself again!
 
-  - New Necklace 1: [2, 4]
-  - New Necklace 2: [1, 3, 4] (the rest of the necklace where the '1' was)
+  - New Necklace 1: `[2, 4]`
+  - New Necklace 2: `[1, 3, 4]` (the rest of the necklace where the '1' was)
 
 - **(Repeat!)** The machine keeps doing this, comparing the first beads, until one necklace is empty. Then, it just attaches whatever's left of the other one to the end.

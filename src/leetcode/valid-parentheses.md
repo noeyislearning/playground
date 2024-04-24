@@ -4,7 +4,7 @@ title: Valid Parentheses
 
 # Valid Parentheses
 
-<Badge type="warning" text="LeetCode" /> <Badge type="info" text="#20" /> <Badge type="info" text="Python3" /> <Badge type="info" text="Easy 🟢" /> <Badge type="info" text="Solve by @noeyislearning" />
+<Badge type="warning" text="LeetCode" /> <a href="https://leetcode.com/problems/valid-parentheses/" target="_blank"><Badge type="warning" text="#20" /> </a> <Badge type="info" text="🟢 Eay" /> <Badge type="info" text="Python3" /> <a href="https://github.com/noeyislearning" target="_blank"><Badge type="tip" text="Solve by @noeyislearning" /> </a>
 
 ## Problem Statement
 
