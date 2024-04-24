@@ -1,4 +1,6 @@
 import { defineConfig } from "vitepress"
+import sidebar from "./config/sidebar"
+import nav from "./config/nav"
 
 const getYear = new Date().getFullYear()
 
@@ -8,37 +10,31 @@ export default defineConfig({
     "Playground is a collaborative repository of coding challenges that we have collectively solved across all levels. These challenges are meticulously curated to assist us in enhancing our programming skills, acquiring new concepts, and honing our problem-solving abilities through consistent practice.",
   lang: "en-US",
   cleanUrls: true,
+  lastUpdated: true,
   themeConfig: {
-    logo: "/logo.png",
+    logo: "/favicon.ico",
     siteTitle: "Playground",
     search: {
       provider: "local",
     },
-    nav: [
-      { text: "Home", link: "/" },
-      { text: "LeetCode", link: "/leetcode/" },
-    ],
 
-    sidebar: {
-      "/leetcode/": [
-        {
-          text: "Python",
-          items: [
-            {
-              text: "Valid Parentheses",
-              link: "/leetcode/valid-parentheses",
-            },
-          ],
-        },
-      ],
-    },
+    /** (Navbar) Menu */
+    nav: nav,
+
+    /** (Navbar) Social Links */
+    //ts
     socialLinks: [
       { icon: "github", link: "https://github.com/noeyislearning/playground" },
       { icon: "linkedin", link: "https://twitter.com/noeyislearning" },
       { icon: "discord", link: "https://discord.gg/haizoencommunity" },
     ],
+
+    /** (Sidebar) Menu */
+    sidebar: sidebar,
+
+    /** (Footer) */
     footer: {
-      message: "Released under the MIT License.",
+      message: "Collected by Haizoen Community.",
       copyright: `All right reserved &copy; ${getYear}`,
     },
     returnToTopLabel: "Go to Top",
