@@ -1,7 +1,5 @@
 ---
 title: LeetCode
-
-lastUpdated: true
 ---
 
 ![banner](https://i.imgur.com/UIF2aeU.png)
