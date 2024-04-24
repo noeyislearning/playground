@@ -24,7 +24,8 @@
   },
   "homepage": "https://github.com/noeyislearning/playground#readme",
   "dependencies": {
-    "prettier": "^3.2.5"
+    "prettier": "^3.2.5",
+    "vue": "^3.4.24"
   },
   "type": "module",
   "devDependencies": {
