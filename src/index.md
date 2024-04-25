@@ -7,10 +7,10 @@ hero:
   tagline: These coding challenges are meticulously curated to assist us in enhancing our programming skills, acquiring new concepts, and honing our problem-solving abilities through consistent practice.
   actions:
     - theme: brand
-      text: Join our Community
-      link: https://discord.gg/haizoencommunity
+      text: Contribution will be open soon!
+      link: /
     - theme: alt
-      text: Star on GitHub ⭐
+      text: Star us on GitHub ⭐
       link: https://github.com/noeyislearning/playground
 
 features:
