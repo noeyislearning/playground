@@ -43,6 +43,9 @@ jobs:
           cache: pnpm # or pnpm / yarn
       - name: Setup Pages
         uses: actions/configure-pages@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          enablement: true
       - name: Install dependencies
         run: pnpm install # or pnpm install / yarn install / bun install
       - name: Build with VitePress
