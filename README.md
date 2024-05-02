@@ -2,11 +2,11 @@
 
 <div align="middle">
 
-![Netlify](https://img.shields.io/netlify/145d9de7-82f0-4129-a8ae-9e62b127ba58?style=flat-square)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/thehaizoen/playground/main?style=flat-square)
-![GitHub contributors from allcontributors.org](https://img.shields.io/github/all-contributors/thehaizoen/playground?style=flat-square)
-![GitHub language count](https://img.shields.io/github/languages/count/thehaizoen/playground?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/thehaizoen/playground?style=flat-square)
+![Netlify](https://img.shields.io/netlify/145d9de7-82f0-4129-a8ae-9e62b127ba58?style=flat-square&labelColor=401F71&color=F8E559)
+[![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/thehaizoen/playground/main?style=flat-square&labelColor=401F71&color=F8E559)](https://img.shields.io/github/commit-activity/t/thehaizoen/playground/main?style=flat-square&labelColor=401F71&color=F8E559)
+![GitHub contributors from allcontributors.org](https://img.shields.io/github/all-contributors/thehaizoen/playground?style=flat-square&labelColor=401F71&color=F8E559)
+![GitHub language count](https://img.shields.io/github/languages/count/thehaizoen/playground?style=flat-square&labelColor=401F71&color=F8E559)
+![GitHub top language](https://img.shields.io/github/languages/top/thehaizoen/playground?style=flat-square&labelColor=401F71&color=F8E559)
 
 </div>
 
