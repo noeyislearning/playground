@@ -22,7 +22,7 @@ The result format is in the following example.
  [2, 11],
  [3, 11],
  [4, 20]
-]`
+]`  
 > Output:
 
 | student_id | age |
