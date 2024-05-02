@@ -6,11 +6,11 @@ export default {
       items: [
         {
           text: "Valid Parentheses",
-          link: "/leetcode/valid-parentheses",
+          link: "/leetcode/python/valid-parentheses",
         },
         {
           text: "Merge Two Sorted Lists",
-          link: "/leetcode/merge-two-sorted-lists",
+          link: "/leetcode/python/merge-two-sorted-lists",
         },
       ],
     },
@@ -20,7 +20,17 @@ export default {
       items: [
         {
           text: "Arra Prototype Last",
-          link: "/leetcode/array-prototype-last",
+          link: "/leetcode/javascript/array-prototype-last",
+        },
+      ],
+    },
+    {
+      text: "🐼 Pandas",
+      collapsed: false,
+      items: [
+        {
+          text: "Second Highest Salary",
+          link: "/leetcode/pandas/second-highest-salary",
         },
       ],
     },
