@@ -22,12 +22,7 @@ export default defineConfig({
     nav: nav,
 
     /** (Navbar) Social Links */
-    //ts
-    socialLinks: [
-      { icon: "github", link: "https://github.com/noeyislearning/playground" },
-      { icon: "linkedin", link: "https://twitter.com/noeyislearning" },
-      { icon: "discord", link: "https://discord.gg/haizoencommunity" },
-    ],
+    socialLinks: [{ icon: "github", link: "https://github.com/noeyislearning/playground" }],
 
     /** (Sidebar) Menu */
     sidebar: sidebar,
