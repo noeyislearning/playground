@@ -32,6 +32,10 @@ export default {
           text: "Second Highest Salary",
           link: "/leetcode/pandas/second-highest-salary",
         },
+        {
+          text: "Create a Dataframe from List",
+          link: "/leetcode/pandas/create-a-dataframe-from-list",
+        },
       ],
     },
   ],
