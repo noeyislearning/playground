@@ -24,7 +24,7 @@ The result format is in the following example.
 
 **Example 1:**
 
-Input: `Employee` table
+> Input: `Employee` table
 
 | id  | salary |
 | --- | ------ |
@@ -32,7 +32,7 @@ Input: `Employee` table
 | 2   | 200    |
 | 3   | 300    |
 
-Output:
+> Output:
 
 | SecondHighestSalary |
 | ------------------- |
@@ -40,13 +40,13 @@ Output:
 
 **Example 2:**
 
-Input: `Employee` table
+> Input: `Employee` table
 
 | id  | salary |
 | --- | ------ |
 | 1   | 100    |
 
-Output:
+> Output:
 
 | SecondHighestSalary |
 | ------------------- |
