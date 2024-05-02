@@ -4,7 +4,7 @@ title: Valid Parentheses
 
 # Valid Parentheses
 
-<Badge type="warning" text="LeetCode" /> <a href="https://leetcode.com/problems/valid-parentheses/" target="_blank"><Badge type="warning" text="#20" /> </a> <Badge type="info" text="🟢 Eay" /> <Badge type="info" text="Python3" /> <a href="https://github.com/noeyislearning" target="_blank"><Badge type="tip" text="Solve by @noeyislearning" /> </a>
+<Badge type="warning" text="LeetCode" /> <a href="https://leetcode.com/problems/valid-parentheses/" target="_blank"><Badge type="warning" text="#20" /> </a> <Badge type="info" text="🟢 Easy" /> <Badge type="info" text="Python3" /> <a href="https://github.com/noeyislearning" target="_blank"><Badge type="tip" text="Solve by @noeyislearning" /> </a>
 
 ## Problem Statement
 
@@ -80,7 +80,7 @@ Then your code is like a super-smart checklist for the doorman:
 
 ## More Examples
 
-**Example 1** — `s = "()[]{}"` <Badge type="warning" text="@noeyislearning" />
+**Example 1** — `s = "()[]{}"` <Badge type="tip" text="@noeyislearning" />
 
 1. `(` arrives, put a round plate on the stack.
 2. `)` arrives, matches the top plate! Take the plate away.
@@ -90,7 +90,7 @@ Then your code is like a super-smart checklist for the doorman:
 6. `}` arrives, matches the top plate! Take it away.
 7. Party's over, and the stack is empty! The party followed the rules!
 
-**Example 2** — `s = "([)]"` <Badge type="warning" text="@noeyislearning" />
+**Example 2** — `s = "([)]"` <Badge type="tip" text="@noeyislearning" />
 
 1. `(` arrives, put a round plate on the stack.
 2. `[` arrives, put a square plate on the stack.

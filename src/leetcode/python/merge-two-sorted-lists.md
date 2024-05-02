@@ -68,7 +68,7 @@ Your code is like a special necklace sorting machine. Here's how it works:
 
 ## More Examples
 
-**Example 1** — Necklace 1 - Beads `[1,2,4]`, Necklace 2 - Beads `[1,3,4]` <Badge type="warning" text="@noeyislearning" />
+**Example 1** — Necklace 1 - Beads `[1,2,4]`, Necklace 2 - Beads `[1,3,4]` <Badge type="tip" text="@noeyislearning" />
 
 - **(Step 1)** Both have beads. Machine compares '1' and '1'. It's a tie! (Doesn't matter who wins, the result will be the same)
 - **(Step 2)** Machine picks a '1' bead and puts it on the super-necklace.
